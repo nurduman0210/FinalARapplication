@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>93680890094-rbp9rejornk9drgmjakn5v8fijp3p6bg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.93680890094-rbp9rejornk9drgmjakn5v8fijp3p6bg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBr0-8vPsLRDnKsfBPJoRdveRm73BJt318</string>
+	<key>GCM_SENDER_ID</key>
+	<string>93680890094</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ARmuseum.FinalARapplication</string>
+	<key>PROJECT_ID</key>
+	<string>arapplication-56071</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arapplication-56071.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:93680890094:ios:ee1e3b42e93bf494e003ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://arapplication-56071.firebaseio.com</string>
+</dict>
+</plist>
