@@ -93,6 +93,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         if let imageAnchor = anchor as? ARImageAnchor {
         // Text scene
             if imageAnchor.referenceImage.name == "554"{
+                        print("This is code")
                         let text = infos["ben"]
                         
                         nodeText.geometry = text
